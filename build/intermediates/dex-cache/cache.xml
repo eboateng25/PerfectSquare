@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\yandex-metrica-2.41.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="20b6343c3cc65a59ae05335b2a6a78c351750326">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\yandex-metrica-2.41_585d44d0a4998a39c17df95549db3b035f838023.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.4.0_fd753aa7d35c7d6f9faa0263ec2857f4704e532c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2a3c083b2ddeb15dcd9817441828350989322e56">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\core-1.0_aad8a3904708042f5dc18cf192b057a450c0f702.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5633b9ba0c5782942f86047f05a9045c3d175a59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\.gradle\caches\modules-2\files-2.1\de.tomgrill.gdxfacebook\gdx-facebook-core\1.2.2\9c729251038ef749dbc4457584d68e22998cfb6d\gdx-facebook-core-1.2.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9c729251038ef749dbc4457584d68e22998cfb6d">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\gdx-facebook-core-1.2.2_d59568ed0f1e3374982f35a8265d529f03851308.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\applovin-6.2.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="eadc9bc89709ea561b7ba659b52bc6e456c36b6d">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\applovin-6.2.2_6cab3f72b8267a75e75b0ad5db753497e5d4223e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\unity-ads-1.4.7.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="283e562342bd5cc227e3e5ef33fd10dd853f6fb8">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\unity-ads-1.4.7_d682bca55feafaf995954e2df4d0c3d50c7884c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.3\c45573bf68b55442990936f007e7d6823d259c1f\gdx-backend-android-1.9.3.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c45573bf68b55442990936f007e7d6823d259c1f">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.3_459666f77055a2d918a4881bb2e4785f72c28606.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.3\1a3775429980a6c8da0cdefb656ad1dabf91d629\gdx-1.9.3.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1a3775429980a6c8da0cdefb656ad1dabf91d629">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\gdx-1.9.3_6a339986aeb43f6f98213f2540eeb9ca5a17c1f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.4.0_c7913108d66b30d9c611c6c9492f4dbcb05ea248.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_4c3a813ddd88429dd91b4e2aad56514df3f3c17f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\flurry-analytics-6.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="29f6ed3b09bf57965c501c0de4a25efad01c8aa2">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\flurry-analytics-6.2.0_cf44b55f036457d4d86888dd6cd55fe353e2b8bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.4.0_a1fa0cf8542cbb1501a234d026f3225b5a18f8a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.4.0_f3730446ce8b83dc813ec0c0c859499a0c9358be.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_b389dfa4a551983d66802ba11e81ad48acfe026e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.4.0_80385bed28f9ba7c21ba9ab5aec35750908125d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\appodeal-1.14.15.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1afa9e3471fdb9a4eb98179b1e955295c1e7049b">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\appodeal-1.14.15_2318f32559b4eb08c7d9a8e317923288b66597e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_1cf2a0c6189ab81d3c9e08550df6e894352bf887.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\inmobi-5.3.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="379d702534f03409ebdc47f5133309f71cf74138">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\inmobi-5.3.1_ad0c9185a1fe1094e44bf2932ca4435868bccdf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_7ff4ebcfc234494f2322d1e69935cd89296aa228.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.4.0_e5adc72a1c661e0056ed0b4e6a6ebdd4e5c3f12c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\my-target-4.5.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="75205347ae6fb3a56c4eae7ab7205fee8c32965d">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\my-target-4.5.1_e1875e59ff4bed844100d5378f3d60bbb06c273a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_a2b690ac66e784e8336bbfdac307634072cf5073.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\de.tomgrill.gdxfacebook\gdx-facebook-android\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="defc6bc7f5b7374308f6c4446572e66bc7f94ce6">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\de.tomgrill.gdxfacebook-gdx-facebook-android-1.2.2_2d9d160efa63ee65ea246e8ac5ea0d59892212e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\.m2\repository\com\parse\bolts\bolts-tasks\1.4.0\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_9e417a81362ad5550af8c09e071be6905fe48b04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\libs\appodeal\chartboost-6.4.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0b4a589a84ecefe72335338ab7c2802c35e824ec">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\chartboost-6.4.1_a6f069d1c54d42c91f46833fd99e6c27500ca2f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.15.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.15.0_41a360f32fef8da52913c5e45a4999cc4951a7e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_f334618f11f974e3ea881f6ca1a94680bcc10e89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\.m2\repository\com\parse\bolts\bolts-applinks\1.4.0\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_8b54abd51b1270b53c4536887b016d23cca512ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kojo Ofori\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.3\924800875b5ce70081021240a1301b60993b62e6\gdx-box2d-1.9.3.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="924800875b5ce70081021240a1301b60993b62e6">
+        <dex dex="C:\Users\Kojo Ofori\Documents\PerfectSquares\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.3_197ddd78d42320ad93b37efd4400b264c4984e75.jar" />
+    </item>
+
+</items>
